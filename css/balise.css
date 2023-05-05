@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(139, 180, 185);
+}
+header {
+  background-color: cornsilk;
+}
+footer {
+  background-color: azure;
+  height: 50px;
+  color: red;
+}
+.sec1 {
+  background-color: bisque;
+}
+.sect2 {
+  margin: 10px 0px;
+  background-color: rgb(181, 158, 187);
+}
+.sect3 {
+  margin: 10px 0px;
+  background-color: rgb(154, 105, 125);
+}
+.sect4 {
+  margin: 10px 0px;
+  background-color: darksalmon;
+}
+.sect5 {
+  background-color: rgb(104, 76, 66);
+  margin: 10px 0px;
+}
+.sect6 {
+  margin: 10px 0px;
+  background-color: rgb(189, 160, 150);
+}
+header {
+  background-color: red;
+  height: 100px;
+}
