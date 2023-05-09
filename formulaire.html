@@ -8,13 +8,26 @@
   </head>
   <body>
     <header></header>
+    <nav>
+      <ul>
+        <li><a href="./balis.html" target="_blank">balise</a></li>
+        <li><a href="./emmet.html">Emmet</a></li>
+      </ul>
+    </nav>
     <main>
-      <label for="exemple">Pseudonyme</label><br />
-      <input type="text" placeholder="exemple" /> <br />
-      <label for="Mot de passe">mot de passe</label><br />
-      <input type="text" placeholder="mot de passe" /><br />
-      <label for="text">E-mail</label><br />
-      <input type="text" placeholder="E-mail" />
+      <form action="./balis.html" method="get">
+        <label for="exemple" title="Obligatoire"
+          >Pseudonyme <span style="color: brown">*</span></label
+        ><br />
+        <input type="text" placeholder="exemple" id="exemple" required /> <br />
+        <label for="Mot de passe">mot de passe</label><br />
+        <input type="text" placeholder="mot de passe" id="Mot de passe" /><br />
+        <label for="text">E-mail</label><br />
+        <input type="text" placeholder="E-mail" id="text" /><br />
+        <input type="submit" />
+        <input type="reset" />
+      </form>
     </main>
   </body>
+  <!-- <form action="" method=""></form> -->
 </html>
