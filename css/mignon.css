@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+tbody {
+  padding: 200px;
+}
+th,
+td {
+  border: 1px black solid;
+  width: 30px;
+  height: 30px;
+}
+tfoot {
+  background-color: green;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.gray {
+  background-color: gray;
+}
