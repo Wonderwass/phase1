@@ -1,0 +1,49 @@
+body {
+width: 80%;
+margin: 10px auto;
+border: solid 1px black;
+height: 600px;
+font-family: ;
+
+
+}
+header{
+    height: 100px;
+    background-color:#8e3557;
+    text-align: center;
+}
+
+nav{
+    height: 50px;
+    background-color: #4a1a2c;
+    
+}
+main{
+    height: 400px;
+    background-color: beige;
+    padding: 0%;
+    border: 13px solid rgb(232, 192, 60);
+}
+
+p{
+    margin: 0%;
+    text-align: center;
+
+}
+
+footer{
+     height: 100px;
+    background-color:#8e3557;
+    border: solid 1px black;
+    text-align: center;
+
+
+}
+
+   
+
+
+
+
+
+
